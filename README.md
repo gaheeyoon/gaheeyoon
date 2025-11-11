@@ -3,6 +3,6 @@
 [![GaheeYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaheeyoon)](https://github.com/gaheeyoon)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5312559)](https://solved.ac/5312559)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaheeyoon)](https://solved.ac/gaheeyoon)
 
 [![Hits](https://hits.sh/github.com/gaheeyoon.svg?view=today-total&style=flat-square&color=cc111d)](https://hits.sh/github.com/gaheeyoon/)
