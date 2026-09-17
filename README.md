@@ -1,4 +1,4 @@
-## Hi there 👋
+![소개 이미지](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=잘%20노는%20개발자입니다.)
 
 <!--
 **gaheeyoon/gaheeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
